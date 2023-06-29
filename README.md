@@ -65,7 +65,16 @@ PhonePe Pulse is an exceptional data visualization and exploration app that offe
 Overall, PhonePe Pulse is an app that promises an exciting and insightful exploration of data.
 
 ## My App Preview
-   
+![Screenshot (7)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/4560fde1-21c6-4fbd-aa56-b24fe5984314)
+![Screenshot (8)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/37ca66e8-8535-4370-8402-e39ac2249c13)
+![Screenshot (9)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/e56fc566-3a7a-42ba-9378-17327b76644b)
+![Screenshot (10)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/a6ce2baf-279a-450d-9930-34e26c7d66b2)
+![Screenshot (11)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/52f8d342-6e59-4543-8ecf-102dc3d9c698)
+![Screenshot (12)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/7661feab-dd29-4525-aa59-9b09b52bc2bb)
+![Screenshot (13)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/ee07aa70-cb06-4508-a1f5-e59ea0105954)
+![Screenshot (14)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/ebfda4de-2772-4f49-a695-72e00104c211)
+![Screenshot (15)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/7301cf3a-8fbb-40ec-b3db-c15be800d1da)
+![Screenshot (16)](https://github.com/preky777/Phonepe_Pulse_Data_VisualizationExploration/assets/107749942/5f39cd0a-7d0d-4a85-8adb-eca9860088d7)   
 
 ## Disclaimer
 Are you curious about digital payment trends in India? Then look no further than PhonePe Pulse! This geospatial website offers a comprehensive analysis of transaction and user behavior data, showcasing trends in digital payments across India. With over 2 billion transactions from 2018 displayed on an interactive map, you can explore and compare regions and transaction types. But wait, there's more! You can also filter data to gain deeper insights on customer and merchant behavior, identify new opportunities for growth, and even unlock opportunities to build better and use-case specific products based on the data available on the site. Just remember, this app is for educational and research purposes only, so let's keep it ethical and non-commercial.
