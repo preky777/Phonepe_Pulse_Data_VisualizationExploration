@@ -65,9 +65,7 @@ PhonePe Pulse is an exceptional data visualization and exploration app that offe
 Overall, PhonePe Pulse is an app that promises an exciting and insightful exploration of data.
 
 ## My App Preview
-     
-## Streamlit web URL
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://phonepe-pulse.streamlit.app/)
+   
 
 ## Disclaimer
 Are you curious about digital payment trends in India? Then look no further than PhonePe Pulse! This geospatial website offers a comprehensive analysis of transaction and user behavior data, showcasing trends in digital payments across India. With over 2 billion transactions from 2018 displayed on an interactive map, you can explore and compare regions and transaction types. But wait, there's more! You can also filter data to gain deeper insights on customer and merchant behavior, identify new opportunities for growth, and even unlock opportunities to build better and use-case specific products based on the data available on the site. Just remember, this app is for educational and research purposes only, so let's keep it ethical and non-commercial.
