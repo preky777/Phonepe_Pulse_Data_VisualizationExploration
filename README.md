@@ -43,7 +43,7 @@ Welcome to Phonepe Pulse!
 
 ## Usage
 1. Open a terminal window and navigate to the directory where the app is located.
-2. Run the Streamlit app using the command [streamlit run Home_Page.py].
+2. Run the Streamlit app using the command [streamlit run Introduction.py].
 3. Select different dropdown options to display various facts and figures on the dashboard.
      
 ## Applications
